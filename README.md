@@ -1,6 +1,6 @@
 # <a href="https://github.com/hemanth-kumar-boddeda" target="_blank">IconDesk</a>
 
-![IconDesk Logo](assets/images/Websitescreenshot.png)
+![IconDesk Logo](assets/images/screenshot.jpeg)
 
 IconDesk is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
